@@ -1,0 +1,21 @@
+{
+  "name": "onepage-backoffice",
+  "version": "1.0.0",
+  "description": "My luminous Nuxt.js project",
+  "author": "ImMyst",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "chart.js": "^2.9.3",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.9.1"
+  }
+}
